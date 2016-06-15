@@ -29,10 +29,10 @@ java Tokenise
 5. Once the program finishes, the output can be seen in the terminal. The output gives,
 for each query, Top 5 documents are retrieved and the following values for each of the top documents are displayed.
 1. The query vector using weight 1 and Weight 2
-2. The Rank of the Document (Top 5), 
+2. The Rank of the Document (Top 5)
 3. Score of the Query, Document
-4. Document Identifier,
-5. Document Vector,
+4. Document Identifier
+5. Document Vector
 6. Headline.
 
 
