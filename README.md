@@ -14,4 +14,4 @@ Method to compile and run the files:
    javac *.java
 3. To run the program, use the following command:
    java Tokenise
-4. Output will be displayed. The first set of output is for tokenising the terms from collection and the next set of output is after stemming the identified tokens.
+4. Output will be displayed. The first set of output is for tokenising the terms from collection(Cranfield Collection) and the next set of output is after stemming the identified tokens.
