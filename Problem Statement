@@ -1,7 +1,7 @@
 Ranked Retrieval
 ___________________________________________________________________
 In this assignment you will implement a simple statistical relevance model in your retrieval system based on the vector relevance model, using the inverted list index that you built in the last assignment. The system should retrieve and rank the documents that satisfy the queries from the file:
-/people/cs/s/sanda/cs6322/hw3.queries
+hw3.queries
 The relevance model of your retrieval system must (1) read a query, (2) parse it by determining the tokens, (3) discard stop-words, (4) generate the lemmas for the content words and then (5) compute the weights of the query vector.
 In addition, the relevance model needs to use the index to compute the weights that constitute the vector representations of the documents in your collection. This allows you to have vector representations for queries as well as for documents.
 The vector representations of queries and documents are used to determine scores that inform the ranking of documents against the queries. The scores are obtained by computing the cosine similarity for every query-document vector pair.
