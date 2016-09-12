@@ -1,18 +1,3 @@
-Files Included:
-----------------
-1. Tokenise.java
-2. Stemmer.java
-3. Posting.java
-4. Porter.java
-5. QueryVector.java
-6. lemmatizer.java
-7. Stopwords.java
-8. TfIdf.java
-9. CosineSimilarity.java
-10. Headline.java
-11. QueryParser.java
- 
-
 Method to compile and run the files:
 ------------------------------------
 1. All files to be placed in the same location/folder.
